@@ -1,7 +1,5 @@
 T1	vastu 324 331	अंशुकेन
-T2	kendrIbhUtapAThaH2 324 344	अंशुकेन जघनं तिरोदधे
-T3	kendrIbhUtapAThaH2 345 370	क चुकेन च कुचौ मृगीदृशाम्
-R1	anuvartanam Arg1:T2 Arg2:T3	
+T3	kendrIbhUtapAThaH2 345 370;372 383	क चुकेन च कुचौ मृगीदृशाम् पीयमानमनिशं
 T4	kendrIbhUtapAThaH1 397 420	क्षामतामिव जगाम मध्यमम्
 T5	kendrIbhUtapAThaH2 324 331;372 396	अंशुकेन पीयमानमनिशं प्रियेक्षणैः
 R2	vivaraNasambandhaH Arg1:T4 Arg2:T5	

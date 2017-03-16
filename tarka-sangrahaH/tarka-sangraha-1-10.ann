@@ -1,0 +1,36 @@
+T1	kendrIbhUtapAThaH1 87 137	द्रव्यगुणकर्मसामान्यविशेषसमवायाऽभावाः सप्तपदार्थाः
+A1	vAkyaprakAraH T1 nirdeshaH
+T2	kendrIbhUtapAThaH2 147 206	तत्र द्रव्याणि पृथिव्यप्तेजोवाय्वाकाशाकालदिगात्ममनांसि नवैव
+A2	vAkyaprakAraH T2 nirdeshaH
+T3	vastu 87 93	द्रव्य
+R1	vivaraNasambandhaH Arg1:T3 Arg2:T2	
+T4	kendrIbhUtapAThaH2 216 370	रूपरसगन्धस्पर्शसंख्यापरिमाणपृथक्त्वसंयोगविभगपरत्वापरत्वगुरुत्वद्रवत्व-स्नेह-शब्द-बुद्धि-सुख-दुःखेच्छा-द्वेष-प्रयत्न-धर्माधर्म-संस्काराः चतुर्विंशतिर्गुणाः
+A3	vAkyaprakAraH T4 nirdeshaH
+T5	vastu 93 96	गुण
+R2	vivaraNasambandhaH Arg1:T5 Arg2:T4	
+T6	kendrIbhUtapAThaH2 380 430	उत्क्षेपणापक्षेपणाकुञ्चनप्रसारणगमनानि पञ्च कर्माणि
+A4	vAkyaprakAraH T6 nirdeshaH
+T7	kendrIbhUtapAThaH2 440 470	परमपरं चेति द्विविधं सामान्यम्
+A5	vAkyaprakAraH T7 nirdeshaH
+T8	kendrIbhUtapAThaH2 480 518	नित्यद्रव्यवृत्तयो विशेषास्त्वनन्ता एव
+A6	vAkyaprakAraH T8 nirdeshaH
+T9	kendrIbhUtapAThaH2 528 543	समवायस्त्वेक एव
+A7	vAkyaprakAraH T9 nirdeshaH
+T10	kendrIbhUtapAThaH2 553 626	अभावश्चतुर्विधः।  प्रागभावः प्रध्वंसाभावः अत्यन्ताभावः अन्योन्याभावश्चेति
+A8	vAkyaprakAraH T10 nirdeshaH
+T11	kendrIbhUtapAThaH1 638 657	तत्र गन्धवती पृथिवी
+A9	vAkyaprakAraH T11 nirvachanam
+T12	kendrIbhUtapAThaH2 665 693	सा द्विविधानित्याऽनित्या च ।
+A10	vAkyaprakAraH T12 nirdeshaH
+T13	kendrIbhUtapAThaH2 699 716	नित्या परमाणुरूपा
+A11	vAkyaprakAraH T13 nirvachanam
+T14	kendrIbhUtapAThaH2 723 742	अनित्या कार्यरूपा ।
+A12	vAkyaprakAraH T14 nirvachanam
+T15	vastu 651 657	पृथिवी
+T16	vastu 665 667	सा
+R3	samaanavastu Arg1:T15 Arg2:T16	
+R4	vivaraNasambandhaH Arg1:T15 Arg2:T12	
+T17	vastu 676 682	नित्या
+R5	vivaraNasambandhaH Arg1:T17 Arg2:T13	
+T18	vastu 682 689	ऽनित्या
+R6	vivaraNasambandhaH Arg1:T18 Arg2:T14	

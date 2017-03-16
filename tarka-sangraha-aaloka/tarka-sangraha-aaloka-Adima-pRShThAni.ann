@@ -1,0 +1,33 @@
+T1	kendrIbhUtapAThaH1 88 200	चिकीर्षितस्य ग्रन्थस्य निर्विघ्नपरिसमाप्तिप्रचयगमनाद्यमर्थमिष्टदेवतानम-स्कारादिगर्भं मङ्गलमाचरति--निधायेत्यादि ।
+T2	kendrIbhUtapAThaH1 201 239	विश्वेशः=काशीक्षेत्राधिनाथो विश्वनाथः।
+T3	kendrIbhUtapAThaH1 240 283	देवं विश्वनाथं हृदि निधाय=ध्यात्वेत्यर्थः ।
+T4	kendrIbhUtapAThaH3 284 404	‘निधानं निक्षेप’ इत्यर्थमादाय, हृदये विश्वनाथस्य निधानासंभवात्‌ निधानं नाम वृत्तित्वप्रकारकाहार्यज्ञानमिति केचन वदन्ति ।
+R3	vivaraNasambandhaH Arg1:T3 Arg2:T4	
+T5	kendrIbhUtapAThaH3 405 469	आहार्यज्ञानं नाम बलात्कारेण संपाद्यमानं ज्ञानम्‌, आरोपात्मकम्‌ ।
+T6	vastu 374 386	काहार्यज्ञान
+R4	vivaraNasambandhaH Arg1:T6 Arg2:T5	
+T7	kendrIbhUtapAThaH3 470 562	बहिः देवालये विद्यमानायाः विश्वनाथार्चामूर्तेः हृदये निधानासंभवाभिप्रायेण तथाभिप्रयन्ति ते ।
+R5	vivaraNasambandhaH Arg1:T4 Arg2:T7	
+T8	vastu 501 516	नाथार्चामूर्तेः
+#1	AnnotatorNotes T8	अर्चामूर्तिः
+T9	kendrIbhUtapAThaH3 563 621	अर्चामूर्तिर्नाम, बाह्यपूजाया आलम्बनीभूता स्थूला मूर्तिः ।
+R6	vivaraNasambandhaH Arg1:T8 Arg2:T9	
+T10	kendrIbhUtapAThaH2 622 685	परन्त्वस्य अतिस्थूलदृष्टित्वात्‌, निधाय=ध्यात्वा इत्येव वरम्‌ ।
+R1	anuvartanam Arg1:T4 Arg2:T10	
+T11	kendrIbhUtapAThaH2 686 743	परमात्मनो ध्यानस्य हृदयमुत्तमं स्थानमिति ध्यानरहस्यविदः ।
+T12	vastu 255 259	हृदि
+R2	vivaraNasambandhaH Arg1:T12 Arg2:T11	
+T13	kendrIbhUtapAThaH1 744 786	अतः ‘विश्वनाथं हृदि ध्यात्वे’ति स्वरसम्‌ ।
+R7	anuvartanam Arg1:T3 Arg2:T13	
+T14	kendrIbhUtapAThaH1 787 828	विश्वेशमित्यत्र द्वितीयाया विशयत्वमर्थः ।
+R8	anuvartanam Arg1:T1 Arg2:T2	
+R9	anuvartanam Arg1:T2 Arg2:T3	
+R10	anuvartanam Arg1:T13 Arg2:T14	
+T15	doShaH 814 818	विशय
+T16	kendrIbhUtapAThaH1 923 971	निधायेति ‘ल्यप्‌’प्रत्ययस्य उत्तरकालिकत्वमर्थः ।
+T17	anavagatapAThaH 866 922	विषयता निरूपकतासंबन्धेन ‘ल्यप्‌’प्रकृत्यर्थध्यानेऽन्वयः।
+T18	anavagatapAThaH 829 863	प्रकृत्यर्थस्याधेयतासंबन्धेनान्वयः
+R11	anuvartanam Arg1:T14 Arg2:T16	
+T19	kendrIbhUtapAThaH1 1016 1094	तथा च विश्वनाथनिष्ठविषयतानिरूपकहृदधिकरणकध्यानोत्तरकालिकी कृतिः इति वाक्यबोधः ॥
+T20	anavagatapAThaH 972 1015	तस्य चाश्रयतासंबन्धेन धात्वर्थ कृतावन्वयः ।
+R12	anuvartanam Arg1:T16 Arg2:T19	
